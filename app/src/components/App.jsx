@@ -1,6 +1,6 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom'
 import DashboardPage from './dashboard/DashboardPage';
+import '../scss/style.scss';
 
 const App = (props)=> {
     return(
